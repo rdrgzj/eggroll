@@ -13,6 +13,25 @@
   <h1><strong>PLAYER MANUAL</strong></h1>
 </p>
 
+HOW TO START THE GAME:
+----------------------------------------------------------------------
+To start the game, follow these steps:
+
+1. Open a terminal/command prompt window.
+
+2. Navigate to the directory where the game files are located.
+   You can do this using the `cd` command. For example:
+
+	'cd path/to/game/directory'
+
+3. Once you're in the correct directory, type the following command to 
+   start the game:
+
+  	 'python 3.12 menu.py'
+
+This will launch the main menu of the game, where you can start playing.
+----------------------------------------------------------------------
+
 ## OBJECTIVE:
 Guide the eggs 🥚 to the nests 🪹 before you run out of moves.  
 Avoid obstacles like frying pans 🍳.
