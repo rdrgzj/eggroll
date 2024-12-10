@@ -164,3 +164,4 @@ The assertions included in the unit tests guarantee the outputs for each functio
 5. **Ability to play next level after completing current level** - After finishing a level, the player can choose to proceed to the next level if available.
 6. **Post-game options** - After completing a level, the player can choose to advance to the next level, restart the current level, or return to the main menu.
 7. **Ability to exit game through main menu** - The player can exit the game through the main menu.
+8. **Ability to input multiple movements** - Players can input a sequence of movements, and the game will validate and execute only the valid movements. (e.g 'LLLRRR' will move the eggs to the left 3 times and to the right 3 times, 'FFFTBBB' will move the eggs forward 3 times, ignore the 'T' input, and move the eggs backward 3 times)
